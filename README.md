@@ -13,10 +13,11 @@ I work on things that I enjoy and that I hope will make the world a little bette
 ## What I build
 
 ### Centauri Academy
-FCC amateur radio exam platform — Technician through Extra. Question pools, readiness scoring, AI tutor plans, analytics. Built to get people licensed, not just quizzed. Migrating to production hosting. Goal: users in every country, subscriptions that fund the next version.
+FCC amateur radio exam platform — Technician through Extra. Currently Question pools, readiness scoring, an AI tutor, and analytics. Migrating to production hosting. Goal: 1000 users and $50+ in revenue. 
 
 ### WALL-E1
-Near-space weather balloon for SFWHS Space Club. Pico flight computer, BME280 / pressure-temp-humidity, LoRa radios, GoPro, parachute, helium. Budgeted on bake sales. Radio and power path proven. Sensor joint failed once from bad solder — next flight gets a real iron, flux, and connectors. Target flight: spring 2027. Footage + data or it didn't happen.
+Near-space weather balloon for SFWHS Space Club. Pico flight computer, BME280 sensor, LoRa radios, GoPro, parachute, helium. Targeting flight in Spring 2027. Launch site TBD.
+
 ---
 
 ## Stack I actually use
@@ -25,16 +26,11 @@ Near-space weather balloon for SFWHS Space Club. Pico flight computer, BME280 / 
 
 ---
 
-## Direction
-
-- Get the ham licenses (Technician, then Extra).
-- Fly WALL-E1, recover it, publish the data.
-- Make Centauri Academy a real business, not a school project with a domain.
-- Math until it stops being the bottleneck (honors geometry path, daily grind).
-- Found an aerospace company. Weather balloons are the first vehicle, not the last.
-
-I care about competence over vibes, execution under entropy, and work that compounds. Effective altruism as a filter, not a slogan.
-
-If you work on radios, flight hardware, exam platforms, or small teams that ship — say hello.
+## Projects in the pipeline
+-Centauri+ (the premium Centauri Academy subscription, waiting on Stripe payments
+-WALL-E1 repo, this will have both the Circuit Python code for the flight computer as well as a mission control UI for the ground station
+-NASA Space Apps Hackathon
 
 ---
+
+If you want to collab on something or hire me reach out. 
