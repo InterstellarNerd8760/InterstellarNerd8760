@@ -2,7 +2,7 @@
 
 Space nerd. Builder. Founder of [Centauri Academy](https://centauriacademy.app).
 
-I work on things that should exist: near-space hardware, exam software that actually teaches, and long-horizon aerospace. High school in the San Francisco Bay Area. Leading SFWHS Space Club. Shipping anyway.
+I work on things that I enjoy and that I hope will make the world a little better: near-space hardware, exam software, and long-horizon aerospace. High school in the San Francisco Bay Area. Leading SFWHS Space Club. Shipping anyway.
 
 **X:** [@rosch_weston](https://x.com/rosch_weston)  
 **App:** [centauriacademy.app](https://centauriacademy.app)
