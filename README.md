@@ -22,7 +22,14 @@ Near-space weather balloon for SFWHS Space Club. Pico flight computer, BME280 se
 
 ## Stack I actually use
 
-`TypeScript` `JavaScript` `HTML` `React` `Vite` `Python` `MicroPython` `Raspberry Pi Pico` `Git` 
+### Software
+`TypeScript` `JavaScript` `HTML` `React` `Vite` `Python` `Git`
+
+### Hardware
+`MicroPython` `Raspberry Pi Pico`
+
+### AI Tools
+*Coming soon*
 
 ---
 
