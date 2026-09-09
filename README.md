@@ -20,19 +20,6 @@ Near-space weather balloon for SFWHS Space Club. Pico flight computer, BME280 se
 
 ---
 
-## Stack I actually use
-
-### Software
-`TypeScript` `JavaScript` `HTML` `React` `Vite` `Python` `Git`
-
-### Hardware
-`MicroPython` `Raspberry Pi Pico`
-
-### AI Tools
-*Coming soon*
-
----
-
 ## Projects in the pipeline
 - Centauri+ (the premium Centauri Academy subscription, waiting on Stripe payments)
 - WALL-E1 repo, this will have both the Circuit Python code for the flight computer as well as a mission control UI for the ground station
