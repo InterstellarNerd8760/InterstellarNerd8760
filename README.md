@@ -3,6 +3,7 @@
 Space nerd. Builder. Founder of [Centauri Academy](https://centauriacademy.app).
 
 I work on things that I enjoy and that I hope will make the world a little better. For example: near-space hardware, exam software, and long-horizon aerospace. High schooler in the San Francisco Bay Area 
+
 **X:** [@rosch_weston](https://x.com/rosch_weston)  
 **Instagram:** [@rosch_weston](https://www.instagram.com/rosch_weston)  
 **App:** [centauriacademy.app](https://centauriacademy.app)
