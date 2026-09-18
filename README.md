@@ -13,7 +13,7 @@ I work on things that I enjoy and that I hope will make the world a little bette
 ## What I build
 
 ### Centauri Academy
-FCC amateur radio exam platform — Technician through Extra. Currently Question pools, readiness scoring, an AI tutor, and analytics. Migrating to production hosting. Goal: 1000 users and $50+ in[...]
+FCC amateur radio exam platform — Technician through Extra. Currently Question pools, readiness scoring, an AI tutor, and analytics. Migrating to production hosting. Goal: 1000 users and $50+ in revenue. 
 
 ### WALL-E1
 Near-space weather balloon for SFWHS Space Club. Pico flight computer, BME280 sensor, LoRa radios, GoPro, parachute, helium. Targeting flight in Spring 2027. Launch site TBD.
