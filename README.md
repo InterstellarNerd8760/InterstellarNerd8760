@@ -1,60 +1,77 @@
 <div align="center">
 
-<sub>SOFTWARE ENGINEERING &nbsp; / &nbsp; AEROSPACE &nbsp; / &nbsp; EXPLORATION</sub>
+<img src="./assets/mission-header.svg" alt="Weston Rosch — software, aerospace and exploration" width="100%">
 
-# WESTON ROSCH
+<br>
 
-*Building useful things today. Working toward bigger things tomorrow.*
+**STUDENT · DEVELOPER · FOUNDER** &nbsp; / &nbsp; SAN FRANCISCO BAY AREA
 
-<a href="https://westonrosch.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-WESTONROSCH.COM-15253B?style=for-the-badge&labelColor=0B1220&color=28496A"></a>
-<a href="https://moon.westonrosch.com"><img alt="Lunar Atlas" src="https://img.shields.io/badge/LUNAR_ATLAS-EXPLORE-15253B?style=for-the-badge&labelColor=0B1220&color=42698C"></a>
-<a href="https://centauriacademy.app"><img alt="Centauri Academy" src="https://img.shields.io/badge/CENTAURI_ACADEMY-LEARN-15253B?style=for-the-badge&labelColor=0B1220&color=28496A"></a>
+*Building tools for learning, exploration, and the long term.*
 
-<br><br>
-
-<a href="https://moon.westonrosch.com">
-  <img src="https://raw.githubusercontent.com/InterstellarNerd8760/personal-site/main/img/lunar-atlas-card.webp" alt="Lunar Atlas rendering of the lunar south pole against a starfield" width="100%">
-</a>
-
-<sub>THE MOON, RENDERED IN LUNAR ATLAS &nbsp; · &nbsp; NASA SPACE APPS CHALLENGE 2026</sub>
+<p>
+  <a href="https://westonrosch.com"><img src="https://img.shields.io/badge/WEBSITE-284D50?style=for-the-badge&labelColor=111E2C&logo=googlechrome&logoColor=F3F0E6" alt="Website"></a>
+  <a href="https://moon.westonrosch.com"><img src="https://img.shields.io/badge/LUNAR_ATLAS-456D7D?style=for-the-badge&labelColor=111E2C&logo=moon&logoColor=F3F0E6" alt="Lunar Atlas"></a>
+  <a href="https://centauriacademy.app"><img src="https://img.shields.io/badge/CENTAURI_ACADEMY-58796B?style=for-the-badge&labelColor=111E2C&logoColor=F3F0E6" alt="Centauri Academy"></a>
+  <a href="https://x.com/rosch_weston"><img src="https://img.shields.io/badge/X_%2F_TWITTER-27313B?style=for-the-badge&labelColor=111E2C&logo=x&logoColor=F3F0E6" alt="X"></a>
+</p>
 
 </div>
 
----
+### 01 / SELECTED WORK
 
-### 01 / ABOUT
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://moon.westonrosch.com">
+<img src="https://raw.githubusercontent.com/InterstellarNerd8760/personal-site/main/img/lunar-atlas-card.webp" alt="Authentic Lunar Atlas screenshot showing the lunar south pole" width="100%">
+</a>
+<h3>01. Centauri Lunar Atlas</h3>
+<p>An interactive 3D Moon built for the <b>NASA Space Apps Challenge 2026</b>. Lunar terrain, landing sites, illumination, and exploration — all in the browser.</p>
+<p><a href="https://moon.westonrosch.com">Explore the atlas</a> · <a href="https://github.com/InterstellarNerd8760/lunar-atlas">Source code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://centauriacademy.app">
+<img src="./assets/centauri-card.svg" alt="Centauri Academy illustrated project artwork" width="100%">
+</a>
+<h3>02. Centauri Academy</h3>
+<p>Amateur radio exam preparation, made accessible. Practice tools, readiness scoring, analytics, and AI-assisted learning.</p>
+<p><a href="https://centauriacademy.app">Launch Centauri Academy</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/InterstellarNerd8760/WALL-E1">
+<img src="./assets/walle-card.svg" alt="Concept illustration for WALL-E1 near-space weather balloon" width="100%">
+</a>
+<h3>03. WALL-E1</h3>
+<p>A near-space weather balloon with a Raspberry Pi Pico flight computer, environmental sensing, LoRa telemetry, and recovery systems.</p>
+<p><a href="https://github.com/InterstellarNerd8760/WALL-E1">Mission repository</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://westonrosch.com">
+<img src="https://raw.githubusercontent.com/InterstellarNerd8760/personal-site/main/img/earth-limb-1280.webp" alt="Earth's limb from orbit, featured on Weston's website" width="100%">
+</a>
+<h3>04. The Personal Archive</h3>
+<p>A growing home for project notes, experiments, technical write-ups, and ideas about humanity's future.</p>
+<p><a href="https://westonrosch.com">Visit westonrosch.com</a></p>
+</td>
+</tr>
+</table>
 
-I'm Weston — a student, developer, and founder in the San Francisco Bay Area.
+### 02 / SYSTEMS IN DEVELOPMENT
 
-I build software and hardware at the intersection of **education, exploration, and aerospace**. I'm interested in making complicated systems easier to understand and helping ambitious ideas become real projects.
+| Project | Current direction |
+| :--- | :--- |
+| **Lunar Atlas** | Terrain rendering, flight controls, data layers, and mission information |
+| **Centauri Academy** | New exam coverage, better study tools, and Centauri+ |
+| **WALL-E1** | Flight hardware, telemetry, and ground-station software |
+| **Personal site** | An expanding archive of projects, reflections, and research |
 
-### 02 / SELECTED WORK
+### 03 / TOOLKIT & INTERESTS
 
-#### [Centauri Lunar Atlas](https://moon.westonrosch.com)
-An interactive 3D Moon built for the **NASA Space Apps Challenge 2026**. Explore lunar terrain, landing sites, lighting, and mission context in a browser.
+`TypeScript` · `Python` · `React` · `Three.js` · `Node.js` · `PostgreSQL` · `Microcontrollers`
 
-[Live experience](https://moon.westonrosch.com) &nbsp;·&nbsp; [Source code](https://github.com/InterstellarNerd8760/lunar-atlas)
-
-#### [Centauri Academy](https://centauriacademy.app)
-An amateur radio exam-preparation platform with practice modes, readiness scoring, analytics, and AI-assisted study.
-
-[Try the app](https://centauriacademy.app)
-
-#### [WALL-E1](https://github.com/InterstellarNerd8760/WALL-E1)
-A near-space weather balloon project using a Raspberry Pi Pico flight computer, environmental sensors, and LoRa telemetry.
-
-[Project repository](https://github.com/InterstellarNerd8760/WALL-E1)
-
-### 03 / CURRENTLY BUILDING
-
-- **Centauri Academy** — expanding exam coverage and improving the learning experience.
-- **Lunar Atlas** — refining terrain rendering, flight controls, and mission information.
-- **WALL-E1** — developing flight hardware and ground-station software.
-- **Personal website** — documenting projects, experiments, and ideas at [westonrosch.com](https://westonrosch.com).
-
-### 04 / FIELDS OF INTEREST
-
-`Aerospace` &nbsp; `Scientific visualization` &nbsp; `Web development` &nbsp; `Embedded systems` &nbsp; `Artificial intelligence` &nbsp; `Education`
+<sub>Aerospace engineering &nbsp; / &nbsp; Scientific visualization &nbsp; / &nbsp; AI &nbsp; / &nbsp; Education &nbsp; / &nbsp; Long-horizon technology</sub>
 
 ---
 
@@ -62,10 +79,6 @@ A near-space weather balloon project using a Raspberry Pi Pico flight computer, 
 
 **CURIOSITY &nbsp; → &nbsp; EXPERIMENTATION &nbsp; → &nbsp; ENGINEERING**
 
-<sub>
-<a href="https://westonrosch.com">Website</a> &nbsp;·&nbsp;
-<a href="https://x.com/rosch_weston">X</a> &nbsp;·&nbsp;
-<a href="https://instagram.com/rosch_weston">Instagram</a>
-</sub>
+<sub><a href="https://westonrosch.com">WEBSITE</a> &nbsp; / &nbsp; <a href="https://x.com/rosch_weston">X</a> &nbsp; / &nbsp; <a href="https://www.instagram.com/rosch_weston">INSTAGRAM</a></sub>
 
 </div>
