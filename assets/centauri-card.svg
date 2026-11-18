@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="608" viewBox="0 0 900 608" role="img" aria-label="Centauri Academy concept card with radio waves and an educational interface motif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111D2D"/><stop offset="1" stop-color="#1A343B"/></linearGradient><radialGradient id="ring" cx="50%" cy="50%" r="50%"><stop stop-color="#A9E3CA" stop-opacity=".3"/><stop offset="1" stop-color="#A9E3CA" stop-opacity="0"/></radialGradient><pattern id="d" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#A2CAC1" opacity=".16"/></pattern></defs>
+<rect width="900" height="608" fill="url(#bg)"/><rect width="900" height="608" fill="url(#d)"/><rect x="23" y="23" width="854" height="562" fill="none" stroke="#6F9C95" stroke-opacity=".5"/>
+<path d="M23 23h45 M23 23v45 M877 23h-45 M877 23v45" fill="none" stroke="#D4B782" stroke-width="3"/>
+<text x="57" y="81" fill="#D4B782" font-size="21" letter-spacing="4" font-family="monospace">PROJECT 02 / RADIO EDUCATION</text>
+<text x="53" y="204" fill="#F3F2E9" font-size="76" letter-spacing="-2" font-weight="700" font-family="Arial, sans-serif">CENTAURI</text>
+<text x="54" y="285" fill="#F3F2E9" font-size="76" letter-spacing="-2" font-weight="700" font-family="Arial, sans-serif">ACADEMY</text>
+<path d="M57 322H575" stroke="#A1C6B9" stroke-opacity=".55" stroke-width="2"/>
+<text x="57" y="366" fill="#A8CEC3" font-size="22" letter-spacing="2" font-family="monospace">LEARN / PRACTICE / IMPROVE</text>
+<circle cx="700" cy="400" r="170" fill="url(#ring)"/>
+<circle cx="700" cy="400" r="148" fill="none" stroke="#8ACBC0" stroke-opacity=".25" stroke-width="1.5"/>
+<circle cx="700" cy="400" r="111" fill="none" stroke="#8ACBC0" stroke-opacity=".4" stroke-width="3"/>
+<circle cx="700" cy="400" r="72" fill="none" stroke="#D1B680" stroke-opacity=".58" stroke-width="3"/>
+<circle cx="700" cy="400" r="32" fill="#D1B680" opacity=".82"/>
+<path d="M700 400L795 327 M700 400L758 493" stroke="#D6DED6" stroke-width="3" opacity=".8"/>
+<circle cx="795" cy="327" r="8" fill="#DBE6DB"/><circle cx="758" cy="493" r="7" fill="#DBE6DB"/>
+<text x="59" y="493" fill="#F3F2E9" font-size="25" font-family="Arial, sans-serif">Tools for the next generation</text>
+<text x="59" y="527" fill="#F3F2E9" font-size="25" font-family="Arial, sans-serif">of radio operators.</text>
+<path d="M57 555H843" stroke="#6F9C95" stroke-opacity=".45"/>
+<text x="59" y="577" fill="#A6BCBA" font-size="15" letter-spacing="3" font-family="monospace">EDUCATION SYSTEMS</text>
+<text x="844" y="577" text-anchor="end" fill="#D4B782" font-size="15" letter-spacing="2" font-family="monospace">CENTAURI / 2026</text>
+</svg>
