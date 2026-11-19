@@ -1,84 +1,67 @@
 <div align="center">
+  <img src="./assets/header.svg" alt="Weston Rosch. Software, radio, aerospace. Building toward what comes next. Earth from the ISS, NASA." width="100%">
+</div>
 
-<img src="./assets/mission-header.svg" alt="Weston Rosch — software, aerospace and exploration" width="100%">
+I'm Weston, a 10th grader in San Francisco. I build software, mess with radios, and work on things that go up. Callsign KO6OGZ.
 
-<br>
-
-**STUDENT · DEVELOPER · FOUNDER** &nbsp; / &nbsp; SAN FRANCISCO BAY AREA
-
-*Building tools for learning, exploration, and the long term.*
-
-<p>
-  <a href="https://westonrosch.com"><img src="https://img.shields.io/badge/WEBSITE-284D50?style=for-the-badge&labelColor=111E2C&logo=googlechrome&logoColor=F3F0E6" alt="Website"></a>
-  <a href="https://moon.westonrosch.com"><img src="https://img.shields.io/badge/LUNAR_ATLAS-456D7D?style=for-the-badge&labelColor=111E2C&logo=moon&logoColor=F3F0E6" alt="Lunar Atlas"></a>
-  <a href="https://centauriacademy.app"><img src="https://img.shields.io/badge/CENTAURI_ACADEMY-58796B?style=for-the-badge&labelColor=111E2C&logoColor=F3F0E6" alt="Centauri Academy"></a>
-  <a href="https://x.com/rosch_weston"><img src="https://img.shields.io/badge/X_%2F_TWITTER-27313B?style=for-the-badge&labelColor=111E2C&logo=x&logoColor=F3F0E6" alt="X"></a>
+<p align="center">
+  <a href="https://westonrosch.com"><img src="./assets/chip-website.svg" alt="Website" height="36"></a>
+  &nbsp;
+  <a href="https://x.com/rosch_weston"><img src="./assets/chip-x.svg" alt="X" height="36"></a>
+  &nbsp;
+  <a href="https://github.com/InterstellarNerd8760"><img src="./assets/chip-github.svg" alt="GitHub" height="36"></a>
 </p>
 
+<div align="center">
+  <img src="./assets/section-work.svg" alt="Work. Things I've made real." width="100%">
 </div>
 
-### 01 / SELECTED WORK
+<a href="https://moon.westonrosch.com"><img src="./assets/lunar-atlas.webp" alt="Lunar Atlas, a 3D Moon explorer showing the south pole, landing sites, and the app's controls" width="100%"></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://moon.westonrosch.com">
-<img src="https://raw.githubusercontent.com/InterstellarNerd8760/personal-site/main/img/lunar-atlas-card.webp" alt="Authentic Lunar Atlas screenshot showing the lunar south pole" width="100%">
-</a>
-<h3>01. Centauri Lunar Atlas</h3>
-<p>An interactive 3D Moon built for the <b>NASA Space Apps Challenge 2026</b>. Lunar terrain, landing sites, illumination, and exploration — all in the browser.</p>
-<p><a href="https://moon.westonrosch.com">Explore the atlas</a> · <a href="https://github.com/InterstellarNerd8760/lunar-atlas">Source code</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://centauriacademy.app">
-<img src="./assets/centauri-card.svg" alt="Centauri Academy illustrated project artwork" width="100%">
-</a>
-<h3>02. Centauri Academy</h3>
-<p>Amateur radio exam preparation, made accessible. Practice tools, readiness scoring, analytics, and AI-assisted learning.</p>
-<p><a href="https://centauriacademy.app">Launch Centauri Academy</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/InterstellarNerd8760/WALL-E1">
-<img src="./assets/walle-card.svg" alt="Concept illustration for WALL-E1 near-space weather balloon" width="100%">
-</a>
-<h3>03. WALL-E1</h3>
-<p>A near-space weather balloon with a Raspberry Pi Pico flight computer, environmental sensing, LoRa telemetry, and recovery systems.</p>
-<p><a href="https://github.com/InterstellarNerd8760/WALL-E1">Mission repository</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://westonrosch.com">
-<img src="https://raw.githubusercontent.com/InterstellarNerd8760/personal-site/main/img/earth-limb-1280.webp" alt="Earth's limb from orbit, featured on Weston's website" width="100%">
-</a>
-<h3>04. The Personal Archive</h3>
-<p>A growing home for project notes, experiments, technical write-ups, and ideas about humanity's future.</p>
-<p><a href="https://westonrosch.com">Visit westonrosch.com</a></p>
-</td>
-</tr>
-</table>
+**Lunar Atlas**
 
-### 02 / SYSTEMS IN DEVELOPMENT
+A 3D Moon I built for the NASA Space Apps Challenge 2026. You can visit landing sites, fly over the terrain, and see where the Sun and Earth sit above the horizon.
 
-| Project | Current direction |
-| :--- | :--- |
-| **Lunar Atlas** | Terrain rendering, flight controls, data layers, and mission information |
-| **Centauri Academy** | New exam coverage, better study tools, and Centauri+ |
-| **WALL-E1** | Flight hardware, telemetry, and ground-station software |
-| **Personal site** | An expanding archive of projects, reflections, and research |
+[Explore the atlas](https://moon.westonrosch.com) · [Source](https://github.com/InterstellarNerd8760/lunar-atlas)
 
-### 03 / TOOLKIT & INTERESTS
+<a href="https://centauriacademy.app"><img src="./assets/centauri-academy.webp" alt="Centauri Academy homepage, free ham radio exam prep with a practice question" width="100%"></a>
 
-`TypeScript` · `Python` · `React` · `Three.js` · `Node.js` · `PostgreSQL` · `Microcontrollers`
+**Centauri Academy**
 
-<sub>Aerospace engineering &nbsp; / &nbsp; Scientific visualization &nbsp; / &nbsp; AI &nbsp; / &nbsp; Education &nbsp; / &nbsp; Long-horizon technology</sub>
+Free FCC ham radio exam prep for the Technician, General, and Extra question pools, plus a Question of the Day Chrome extension. I started it while studying for my own license.
 
----
+[centauriacademy.app](https://centauriacademy.app)
+
+<a href="https://westonrosch.com/experiments/x-network-atlas/"><img src="./assets/x-network-atlas.webp" alt="X Network Atlas, a snapshot of public X metrics and a graph of recent interactions" width="100%"></a>
+
+**X Network Atlas**
+
+A snapshot of my public X activity: metrics for @rosch_weston, plus a graph of who I actually replied to, mentioned, or quoted.
+
+[Open the atlas](https://westonrosch.com/experiments/x-network-atlas/)
+
+<a href="https://westonrosch.com/projects/wall-e/"><img src="./assets/walle.webp" alt="WALL-E1, a high-altitude balloon project page with an illustrative altitude profile and payload notes" width="100%"></a>
+
+**WALL-E1**
+
+A high-altitude balloon for my school's Space Club. Raspberry Pi Pico flight computer, environmental sensing, GPS tracking, and planned LoRa telemetry. First launch is targeted for spring 2027.
+
+[Mission notes](https://westonrosch.com/projects/wall-e/) · [Repo](https://github.com/InterstellarNerd8760/WALL-E1)
+
+<p align="center">TypeScript · React · Python · Node · Three.js</p>
 
 <div align="center">
-
-**CURIOSITY &nbsp; → &nbsp; EXPERIMENTATION &nbsp; → &nbsp; ENGINEERING**
-
-<sub><a href="https://westonrosch.com">WEBSITE</a> &nbsp; / &nbsp; <a href="https://x.com/rosch_weston">X</a> &nbsp; / &nbsp; <a href="https://www.instagram.com/rosch_weston">INSTAGRAM</a></sub>
-
+  <img src="./assets/footer.svg" alt="Build useful things here. Help build a future out there. KO6OGZ." width="100%">
 </div>
+
+<p align="center">
+  <a href="https://westonrosch.com">westonrosch.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/rosch_weston">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/InterstellarNerd8760">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/rosch_weston">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:hello@westonrosch.com">hello@westonrosch.com</a>
+</p>
