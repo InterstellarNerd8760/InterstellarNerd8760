@@ -1,0 +1,42 @@
+name: Update activity panel
+
+on:
+  schedule:
+    # 10:00 AM Pacific Standard Time (UTC-8). During PDT this is 11:00 AM.
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install typography dependencies
+        run: pip install --quiet fonttools uharfbuzz
+
+      - name: Build activity.svg from the public GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/build_activity.py
+
+      - name: Commit if the panel changed
+        run: |
+          git config user.name "InterstellarNerd8760"
+          git config user.email "212059306+InterstellarNerd8760@users.noreply.github.com"
+          git add assets/activity.svg
+          if git diff --staged --quiet; then
+            echo "No activity changes."
+          else
+            git commit -m "Update activity panel from GitHub API"
+            git push
+          fi
