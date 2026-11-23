@@ -37,14 +37,6 @@ Free FCC ham radio exam prep for the Technician, General, and Extra question poo
 <a href="https://westonrosch.com/experiments/x-network-atlas/"><img src="./assets/rail-x-atlas.svg" alt="X Network Atlas, experiment" width="100%"></a>
 <a href="https://westonrosch.com/experiments/x-network-atlas/"><img src="./assets/x-network-atlas.webp" alt="X Network Atlas, a snapshot of public X metrics and a graph of recent interactions" width="100%"></a>
 
-**X Network Atlas**
-
-A snapshot of my public X activity: metrics for @rosch_weston, plus a graph of who I actually replied to, mentioned, or quoted.
-
-[Open the atlas](https://westonrosch.com/experiments/x-network-atlas/)
-
-<a href="https://westonrosch.com/projects/wall-e/"><img src="./assets/rail-walle.svg" alt="WALL-E1, in development" width="100%"></a>
-<a href="https://westonrosch.com/projects/wall-e/"><img src="./assets/walle.webp" alt="WALL-E1, a high-altitude balloon project page with an illustrative altitude profile and payload notes" width="100%"></a>
 
 **WALL-E1**
 
