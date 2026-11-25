@@ -34,9 +34,17 @@ Free FCC ham radio exam prep for the Technician, General, and Extra question poo
 
 [centauriacademy.app](https://centauriacademy.app)
 
-<a href="https://westonrosch.com/experiments/x-network-atlas/"><img src="./assets/rail-x-atlas.svg" alt="X Network Atlas, experiment" width="100%"></a>
-<a href="https://westonrosch.com/experiments/x-network-atlas/"><img src="./assets/x-network-atlas.webp" alt="X Network Atlas, a snapshot of public X metrics and a graph of recent interactions" width="100%"></a>
+**Centauri Bloom**
 
+An open-source, community-driven project to train a small language model from scratch using volunteer compute. We're starting with reproducible training experiments and building toward collaborative model development.
+
+[Project page](https://westonrosch.com/projects/centauri-bloom/) · [Source and contributions](https://github.com/InterstellarNerd8760/centauri-bloom)
+
+**Centauri Archive**
+
+An independent project developing a durable, self-describing record of Earth, life, and human civilization for potential interstellar carriage. The archive includes curated photographs, an encyclopedia, and experiments in decoding and error recovery.
+
+[Explore the archive](https://interstellarnerd8760.github.io/centauri-archive/) · [Source](https://github.com/InterstellarNerd8760/centauri-archive)
 
 **WALL-E1**
 
